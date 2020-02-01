@@ -1,0 +1,11 @@
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\bin\Debug\Consultório.exe.config
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\bin\Debug\Consultório.exe
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\bin\Debug\Consultório.pdb
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\obj\Debug\Consultório.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\obj\Debug\Consultório.Properties.Resources.resources
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\obj\Debug\Consultório.csproj.GenerateResource.Cache
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\obj\Debug\Consultório.exe
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\obj\Debug\Consultório.pdb
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\obj\Debug\Consultório.FrmDentista.resources
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\obj\Debug\Consultório.FrmConsulta.resources
+C:\Users\Aluno\Music\Paloma\Consultório\Consultório\obj\Debug\Consultório.FrmPaciente.resources
